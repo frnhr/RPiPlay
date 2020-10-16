@@ -56,6 +56,8 @@ make
 
 GCC 5 or later is required.
 
+X-System is not required, so Raspbian Lite is sufficient for the build.
+
 # Building on desktop Linux:
 
 For building on Ubuntu 18.04 or 20.04, follow these steps:
